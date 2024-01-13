@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#body{
+    background-color: #A6877C;
+    font-family: 'Roboto', sans-serif;
+    height: auto;
+}
+header ul li{
+    font-size: 2.2rem;
+}
+header ul li a{
+    color: #1F1E26;
+    font-weight: 700;
+}
+#carousel-cafe{
+    width: 100%;
+    margin: 0 auto;
+}
+#carousel-cafe img{
+    object-fit: cover;
+    width: 100%;
+    height: 72vh;
+    border-radius: 10px;
+}
+aside h2{
+    font-weight: 700;
+}
+aside p{
+    font-weight: 400;
+}
+#Tipos{
+    height: 70vh;
+}
